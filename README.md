@@ -112,7 +112,7 @@ python app.py
 🔗 **Render**
 
 ```
-https://ai-chatbot-lbcl.onrender.com/
+https://chatbot-oj9f.onrender.com/
 ```
 
 ---
@@ -120,7 +120,7 @@ https://ai-chatbot-lbcl.onrender.com/
 # 💻 GitHub
 
 ```
-https://github.com/srjofficial/AI-ChatBot
+https://github.com/sabin-2003/chatbot/
 ```
 
 ---
@@ -173,15 +173,15 @@ During this project, I explored:
 
 # 📬 Connect With Me
 
-**Saroj**
+**Sabin **
 
 🌐 GitHub
 
-https://github.com/srjofficial
+https://github.com/sabin-2003
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR_PROFILE
+[https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/sabin-kuriakose/)
 
 ---
 
